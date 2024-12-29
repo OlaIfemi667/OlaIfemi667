@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Odin Project**
 
-- 👨‍💻 All of my projects are available at [unavailable](unavailable)
-
 - 📫 How to reach me **bancolejeandedieu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
