@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olaifemi667" alt="olaifemi667" /></a> </p>
 
-- 🔭 I’m currently working on **IntruderV1**
+- 🔭 I’m currently working on **some assembly project**
 
 - 🌱 I’m currently learning **Odin Project**
 
