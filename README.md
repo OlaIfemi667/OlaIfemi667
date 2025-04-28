@@ -4,11 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olaifemi667&label=Profile%20views&color=0e75b6&style=flat" alt="olaifemi667" /> </p>
 
 
-- 🔭 I’m currently working on **some assembly project**
+- 🔭 I’m currently working on intruderV2
 
-- 🌱 I’m currently learning **Odin Project**
+- 🌱 I’m currently learning js on **Odin Project**
 
 - 📫 How to reach me **bancolejeandedieu@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
