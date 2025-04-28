@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ola-Iya</h1>
-<h3 align="center">A student in cybersecurity and software engineering enthousiast</h3>
+<h3 align="center">A student in cybersecurity and software engineering </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olaifemi667&label=Profile%20views&color=0e75b6&style=flat" alt="olaifemi667" /> </p>
 
