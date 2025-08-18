@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D9FF¢er=true&vCenter=true&width=800&height=100&lines=👋+Hey%2C+I'm+Ola-Iya;🛡️+Cybersecurity+Strategist;🚀+Full-Stack+Architect;🔍+Reverse+Engineering+Expert;🤖+AI%2FML+Enthusiast;💻+Building+Secure+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D9FF¢er=true&vCenter=true&width=800&height=100&lines=👋+Hey%2C+I'm+Tirth+Parmar;🛡️+Cybersecurity+Strategist;🚀+Full-Stack+Architect;🔍+Reverse+Engineering+Expert;🤖+AI%2FML+Enthusiast;💻+Building+Secure+Digital+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -7,9 +7,9 @@
 </div>
 
 <div align="center">
+
   <a href="https://github.com/OlaIfemi667">
     <img src="https://img.shields.io/badge/🔴_Penetration_Testing-FF3366?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="Pentesting Badge"/>
-  </a>
   </a>
 </div>
 
@@ -24,16 +24,18 @@
       <h2>🚀 About Me</h2>
       <div>
       <ul>
-      <li><b>name:</b> Ola-iyar</li>
-      <li><b>role:</b> Cybersecurity Strategist & Software engineer junior</li>
-      <li><b>location:</b> ["Gujarat", "India"]</li>
-      <li><b>education:</b> B.Tech CSE @ Darshan University ('27)</li>
-      <li><b>interests:</b> ["Ethical Hacking", "art", </li>
+      <li><b>name:</b> Tirth Parmar</li>
+      <li><b>role:</b> Cybersecurity Strategist & Full-Stack Developer</li>
+      <li><b>interests:</b> ["Ethical Hacking", "Art"]</li>
       <li><b>currently_learning:</b> ["Advanced Penetration Testing", "Software engineering"]</li>
       <li><b>fun_fact:</b> "I build systems and then figure out how to break them! 😄</li>
       </ul>
       <br>
-      
+      <p>
+      <ul>
+        <li>🔐 <b>Offensive Security Enthusiast</b> <br/></li>
+      </ul>
+      </p>
     </div>
     </td>
     <td width="45%" align="center">
@@ -66,12 +68,6 @@
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0A0A0A" alt="Tailwind"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0A0A0A" alt="PostgreSQL"/>
 
-### 🤖 AI/ML & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI/ML"/>
-<br/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0A0A0A" alt="Scikit-Learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0A0A0A" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0A0A0A" alt="NumPy"/>
 
 </div>
 
@@ -109,11 +105,6 @@
         <br/><b>🤖 AI-Powered Security</b>
         <br/>Building ML models for threat detection & analysis
       </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100px" alt="Development"/>
-        <br/><b>🚀 Secure Full-Stack Apps</b>
-        <br/>Creating bulletproof web applications with modern tech
-      </td>
     </tr>
   </table>
 </div>
@@ -123,16 +114,13 @@
 <h2 align="center">🌐 Let's Connect & Collaborate</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/thetirthparmar">
+  <a href="https://www.linkedin.com/in/jean-de-dieu-bancole-54b65123b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn" />
   </a>
-  <a href="mailto:thetirthparmar@gmail.com">
+  <a href="mailto:bancolejeandedieur@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Email" />
   </a>
-  <a href="https://twitter.com/thetirthparmar">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0A0A0A" alt="Twitter" />
-  </a>
-  <a href="https://github.com/ogtirth">
+  <a href="https://github.com/OlaIfemi667">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub" />
   </a>
 </div>
@@ -142,7 +130,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ogtirth&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=OlaIfemi667&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ogtirth?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0A0A0A" alt="Followers" />
 </div>
 
