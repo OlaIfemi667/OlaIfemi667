@@ -131,7 +131,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=OlaIfemi667&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ogtirth?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0A0A0A" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/OlaIfemi667?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0A0A0A" alt="Followers" />
 </div>
 
 <div align="center">
