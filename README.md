@@ -13,7 +13,7 @@
 
 ###
 
-<a href="https://olaifemi667.github.io/ola-iya/">My blog</a> 
+<a href="https://olabancole.netlify.app/">My blog</a> 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=OlaIfemi667&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
